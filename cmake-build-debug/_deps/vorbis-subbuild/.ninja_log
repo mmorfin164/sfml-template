@@ -1,0 +1,21 @@
+# ninja log v6
+2	56	7647983220579067	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	d188157982b0d2e3
+2	56	7647983220579067	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	d188157982b0d2e3
+58	7101	7647983291013210	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	c3c30a1e2563c254
+58	7101	7647983291013210	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	c3c30a1e2563c254
+7102	7241	7647983291080462	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	c1657d31a7c78c25
+7102	7241	7647983291080462	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	c1657d31a7c78c25
+7241	7297	7647983292977765	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	cb6e52cfeb3f27ee
+7241	7297	7647983292977765	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	cb6e52cfeb3f27ee
+7297	7351	7647983293508822	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	cbe6ab8a9ae9bfd7
+7297	7351	7647983293508822	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	cbe6ab8a9ae9bfd7
+7351	7404	7647983294043064	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	d6b22f8bfc108328
+7351	7404	7647983294043064	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	d6b22f8bfc108328
+7404	7466	7647983294664980	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	3b3d738a9dcfbcbe
+7404	7466	7647983294664980	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	3b3d738a9dcfbcbe
+7466	7522	7647983295226002	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	bdf695005defb454
+7466	7522	7647983295226002	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	bdf695005defb454
+7522	7596	7647983295973336	CMakeFiles/vorbis-populate-complete	ae4309af6c97304f
+7522	7596	7647983295973336	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	ae4309af6c97304f
+7522	7596	7647983295973336	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	ae4309af6c97304f
+7522	7596	7647983295973336	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	ae4309af6c97304f

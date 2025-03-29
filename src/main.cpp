@@ -4,6 +4,10 @@ int main()
 {
     auto window = sf::RenderWindow(sf::VideoMode({1920u, 1080u}), "CMake SFML Project");
     window.setFramerateLimit(144);
+    sf::CircleShape shape(200.f);
+    shape.setPosition(sf::Vector2f(700, 175));
+    shape.setFillColor(sf::Color::Green);
+
 
     while (window.isOpen())
     {
@@ -14,8 +18,9 @@ int main()
                 window.close();
             }
         }
-
-        window.clear();
+        window.draw(shape);
         window.display();
+
     }
 }
+//google smfl documentaion for green circle

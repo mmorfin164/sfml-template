@@ -1,0 +1,21 @@
+# ninja log v6
+2	54	7647982884795472	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	85ecab4393b4ccbf
+2	54	7647982884795472	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	85ecab4393b4ccbf
+55	16118	7647983045426047	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	42822a047d7a1995
+55	16118	7647983045426047	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	42822a047d7a1995
+16118	16253	7647983045482871	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	b9e0e70f9995297e
+16118	16253	7647983045482871	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	b9e0e70f9995297e
+16253	16312	7647983047366219	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	725bc526c0ba6766
+16253	16312	7647983047366219	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	725bc526c0ba6766
+16312	16366	7647983047909518	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	38ea6f57976928aa
+16312	16366	7647983047909518	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	38ea6f57976928aa
+16366	16421	7647983048447481	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	f5539a4a4ea60d27
+16366	16421	7647983048447481	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	f5539a4a4ea60d27
+16421	16475	7647983048988551	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	84818c5f7b40c88b
+16421	16475	7647983048988551	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	84818c5f7b40c88b
+16475	16528	7647983049524871	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	abb96010efc28d82
+16475	16528	7647983049524871	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	abb96010efc28d82
+16528	16601	7647983050263023	CMakeFiles/freetype-populate-complete	a9d44baa3bfc84ee
+16528	16601	7647983050263023	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	a9d44baa3bfc84ee
+16528	16601	7647983050263023	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	a9d44baa3bfc84ee
+16528	16601	7647983050263023	C:/Users/mmorf/CLionProjects/Filei/sfml-template2/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	a9d44baa3bfc84ee
